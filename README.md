@@ -2,6 +2,9 @@
 
 This repository contains the code, trained models, presentation materials and dataset for the Neural Network project.
 
+Author: Samuele Tomassacci
+Student ID: 2216267
+
 ***Repository Structure***
 
 The repository is organized as follows:
