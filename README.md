@@ -1,6 +1,6 @@
 # Hybrid-Models-for-hyperspectral-image-classification
 
-This repository contains the code, trained models, and presentation materials for the Neural Network project.
+This repository contains the code, trained models, presentation materials and dataset for the Neural Network project.
 
 ***Repository Structure***
 
