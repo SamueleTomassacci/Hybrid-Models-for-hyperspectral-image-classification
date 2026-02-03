@@ -5,6 +5,8 @@ This repository contains the code, trained models, presentation materials and da
 Author: Samuele Tomassacci  
 Student ID: 2216267
 
+Reference paper: C. Fu, T. Zhou, T. Guo, Q. Zhu, F. Luo, and B. Du, "CNN-Transformer and Channel-Spatial Attention based network for hyperspectral image classification with few samples," Neural Networks, vol. 186, art. no. 107283, 2025, doi: 10.1016/j.neunet.2025.107283.
+
 ***Repository Structure***
 
 The repository is organized as follows:
