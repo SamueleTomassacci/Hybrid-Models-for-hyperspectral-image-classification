@@ -15,21 +15,21 @@ The repository is organized as follows:
 
 ***Files and Folders Description***
 
-*Models/*
+*Models/*  
 This folder contains the trained models with their saved weights after training.
 Since the training process is relatively fast, these models are provided mainly for convenience and reproducibility; in fact the notebook is set to repeat the training each time it is launched.
 
-*Notebook_Hybrid Models for Hyperspectral Image Classification.ipynb*
+*Notebook_Hybrid Models for Hyperspectral Image Classification.ipynb*  
 This is the main Jupyter Notebook containing all the code of the project.
 To correctly visualize it, in particular way the images present in th markdown cells, the notebook should be downloaded and imported on Kaggle, through the specific option "Import Notebook" after clicking on the icon "Create".
 
-*Slides.pptx*
+*Slides.pptx*  
 PowerPoint presentation
 
-*README.md*
+*README.md*  
 Project documentation and usage instructions.
 
-*pavia-university-hsi.zip*
+*pavia-university-hsi.zip*  
 This zip file contains inside the dataset used in the notebook
 
 
