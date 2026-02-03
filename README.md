@@ -54,6 +54,8 @@ To add the dataset to the notebook:
 * Click on Add Input.
 * Search dataset called pavia-university-hsi and add it.
 
+Alternatively, as mentioned before, this repository contains a ZIP file with the dataset inside. Therefore, it can be downloaded and uploaded into the notebook; however, the first approach—using Kaggle directly—is better and faster.
+
 ***Running the Notebook***
 
 To run the code correctly:
